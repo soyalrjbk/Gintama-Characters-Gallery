@@ -2,7 +2,7 @@
 
 A full-stack photo feed for Gintama fans. Users can sign up, upload pictures of their favorite characters with a title and caption, browse everyone's posts in a gallery grid, and like or delete posts.
 
-**Link to project:** https://gintama-characters-gallery.onrender.com
+**Link to project:** gintama-characters-gallery.onrender.com
 
 <img width="1438" height="856" alt="Screenshot 2026-11-14 at 10 18 30 PM" src="https://github.com/user-attachments/assets/e21c1460-3c2d-4b86-b957-267e9716ab49" />
 
